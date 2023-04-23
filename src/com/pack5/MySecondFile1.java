@@ -9,5 +9,4 @@ public class MySecondFile1 {
 	{
 		System.out.println("mySecondFileTest");
 	}
-
 }
