@@ -1,0 +1,10 @@
+<suite name="JDWSuite">
+	<parameter name="url" value="https://www.jdwilliams.co.uk/"/>
+	<parameter name="username" value="pritamk002"/>
+	<parameter name="password" value="Asdfg@12345"/>
+	<test name="JDWTest">
+		<classes>
+			<class name="com.pack3.testng.XMLParameter"/>
+		</classes>
+	</test>
+</suite>

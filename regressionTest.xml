@@ -1,0 +1,15 @@
+<suite name="QLCADDASuite">
+	<test name="QLCADDATest">
+		<groups>
+			<run>
+				<include name="RegressionTest"/>
+			</run>
+		</groups>
+		<classes>
+			<class name="com.pack3.testng.JDWTest"/>
+			<class name="com.pack3.testng.SampleTest"/>
+			<class name="com.pack3.testng.SimplyBe"/>
+			<class name="com.pack4.HAM.HAMTest"/>
+		</classes>
+	</test>
+</suite>

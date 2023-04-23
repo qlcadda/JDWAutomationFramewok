@@ -1,0 +1,11 @@
+<suite name="QLCSuite">
+	<listners>
+		<listner class-name="com.pack6.ListnerDemo"/>
+	</listners>
+	<test name="QLCSuite">
+		<classes>
+			<class name="com.pack3.testng.Test2"/>
+			<class name="com.pack3.testng.Test3"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,20 @@
+<suite name="QLCADDA" parallel="tests" thread-count="10">
+	
+	<test name="TestRunner1">
+		<classes>
+			<class name="com.pack4.HAM.Test1"/>
+		</classes>
+	</test>
+	
+	<test name="TestRunner2">
+		<classes>
+			<class name="com.pack4.HAM.Test2"/>
+		</classes>
+	</test>
+	
+	<test name="TestRunner3">
+		<classes>
+			<class name="com.pack4.HAM.Test3"/>
+		</classes>
+	</test>
+</suite>

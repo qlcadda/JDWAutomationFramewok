@@ -1,0 +1,9 @@
+<suite name="QLCADDASuite">
+	<test name="QLCADDATest">
+		<classes>
+			
+			<class name="com.pack3.testng.SampleTest">
+			</class>
+		</classes>
+	</test>
+</suite>
