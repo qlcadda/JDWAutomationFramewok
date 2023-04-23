@@ -1,0 +1,16 @@
+<suite name = "QLCADDASuite">
+	<test name= "QLCADDATest">
+		<groups>
+			<run>
+				<include name="RegressionTest"/>
+			</run>
+		</groups>
+		<classes>
+            <class name="SeleniumPractice.SampleTest"/>
+            <class name="SeleniumPractice.GroupingTestNg"/>
+            <methods>
+				<include name = "loginToApp"/>
+			</methods>
+        </classes> 
+	</test>
+</suite>

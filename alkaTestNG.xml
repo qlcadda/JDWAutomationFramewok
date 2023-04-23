@@ -1,0 +1,10 @@
+<suite name = "QLCADDASuite">
+	<test name= "QLCADDATest">
+		<classes>
+            <class name="SeleniumPractice.TestNgAnnotation"/>
+            <methods>
+				<include name = "loginToApp"/>
+			</methods>
+        </classes> 
+	</test>
+</suite>
