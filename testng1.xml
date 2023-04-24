@@ -1,0 +1,11 @@
+<suite name="Suite1">
+	<test name="Test1">
+		<classes>
+			<class name="Pack1.TestNG1"/>
+			<class name="Pack1.TestNg2"/>
+			<Methods>
+				<include name=" logInToApp"/>
+			</Methods>
+		</classes>
+	</test>
+</suite>

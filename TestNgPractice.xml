@@ -1,0 +1,11 @@
+<suite name="MyTest">
+	<test name="Practice">
+		<classes>
+			<class name="practice.TestNgPractice">
+				<methods>
+					<exclude name="exitApp"/>
+				</methods>
+		</class>
+		</classes>
+	</test>
+</suite>
